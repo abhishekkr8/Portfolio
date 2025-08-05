@@ -4,7 +4,7 @@ A beautifully crafted, fast, and fully responsive **portfolio** built with **Typ
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio]()
+🔗 [View Portfolio](https://portfolio-nu-plum-p1nqde4esj.vercel.app/)
 
 ## 🚀 Tech Stack
 
@@ -59,8 +59,8 @@ A beautifully crafted, fast, and fully responsive **portfolio** built with **Typ
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-portfolio.git
-cd your-portfolio
+git clone https://github.com/abhishekkr8/Portfolio.git
+cd Portfolio
 ```
 
 2. **Install dependencies**
