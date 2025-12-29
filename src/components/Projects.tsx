@@ -52,7 +52,7 @@ const projects = [
     id: 5,
     title: 'Spotify Frontend Clone',
     description: 'A static UI replica of Spotify built using only HTML and CSS. Features a clean, responsive layout that mimics Spotify’s modern design—perfect for showcasing frontend styling skills.',
-    image: project5,
+    // image: project5,
     tech: ['HTML', 'CSS'],
     link: 'https://frontend-project-beige-psi.vercel.app/',
     github: 'https://github.com/abhishekkr8/FrontendProject.git'
